@@ -34,9 +34,13 @@
 
 | 📁 Project | 🔍 Description | 🚀 Tools |
 |-----------|----------------|----------|
-| [🔗 Loan Default Prediction](https://github.com/Hemant-Karpe-777/Loan-Approval) | Built predictive models to assess borrower default risk. Includes SHAP explainability. | `LogReg`, `XGBoost`, `SHAP`, `EDA` |
+| [🔗 Loan Default Prediction](https://github.com/Hemant-Karpe-777/Machine-Learning-Projects-Showcase/tree/main/Loan%20Approval) | Built predictive models to assess borrower default risk. Includes SHAP explainability. | `LogReg`, `XGBoost`, `SHAP`, `EDA` |
 | [🔗 Mental Health Analysis](https://github.com/Hemant-Karpe-777/Machine-Learning-Projects-Showcase/tree/main/Mental%20Health%20Prediction) | Analyzed mental health survey data using visuals and correlations. | `Pandas`, `Seaborn`, `Matplotlib`, `Power BI` |
-| [🔗 House Price Prediction](https://github.com/Hemant-Karpe-777/House-Price-Prediction/) | Predicted house prices using advanced regression models and feature engineering. | `RandomForest`, `EDA`, `Feature Engineering` |
+| [🔗 House Price Prediction](https://github.com/Hemant-Karpe-777/Machine-Learning-Projects-Showcase/tree/main/House%20Price%20Prediction) | Predicted house prices using advanced regression models and feature engineering. | `RandomForest`, `EDA`, `Feature Engineering` |
+| [🎬 Netflix Data Analysis](https://github.com/Hemant-Karpe-777/Data-Analysis-Projects/tree/main/Netflix%20Movies) | Explored trends in global content, genres, and ratings using Netflix dataset. | `Pandas`, `Seaborn`, `Power BI` |
+| [⛅ Weather Dashboard](https://github.com/Hemant-Karpe-777/Data-Analysis-Projects/tree/main/weather%20dashboard) | Built an interactive dashboard analyzing temperature, humidity, and forecasts. | `Power BI`, `Matplotlib`, `OpenWeather API` |
+| [🚢 Titanic Survival Analysis](https://github.com/Hemant-Karpe-777/Data-Analysis-Projects/tree/main/Titanic_dataset) | Performed EDA and visual analysis to uncover survival patterns. | `Pandas`, `Seaborn`, `Plotly` |
+
 
 ---
 
