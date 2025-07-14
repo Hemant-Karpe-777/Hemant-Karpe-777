@@ -43,6 +43,14 @@
 
 
 ---
+## 📸 Dashboard Example 
+
+| Overview | Forecast & AQI |
+|----------|----------------|
+| ![Main View](https://github.com/Hemant-Karpe-777/Data-Analysis-Projects/tree/main/weather%20dashboard/images/Weather_Dashboard.png) | ![Details](https://github.com/Hemant-Karpe-777/Data-Analysis-Projects/tree/main/weather%20dashboard/images/AQI.png) |
+
+---
+
 
 ## 📈 GitHub Insights
 
