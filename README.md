@@ -35,7 +35,7 @@
 | 📁 Project | 🔍 Description | 🚀 Tools |
 |-----------|----------------|----------|
 | [🔗 Loan Default Prediction](https://github.com/Hemant-Karpe-777/Loan-Approval) | Built predictive models to assess borrower default risk. Includes SHAP explainability. | `LogReg`, `XGBoost`, `SHAP`, `EDA` |
-| [🔗 Mental Health Analysis](https://github.com/Hemant-Karpe-777/Mental-Health-Prediction) | Analyzed mental health survey data using visuals and correlations. | `Pandas`, `Seaborn`, `Matplotlib`, `Power BI` |
+| [🔗 Mental Health Analysis](https://github.com/Hemant-Karpe-777/Machine-Learning-Projects-Showcase/tree/main/Mental%20Health%20Prediction) | Analyzed mental health survey data using visuals and correlations. | `Pandas`, `Seaborn`, `Matplotlib`, `Power BI` |
 | [🔗 House Price Prediction](https://github.com/Hemant-Karpe-777/House-Price-Prediction/) | Predicted house prices using advanced regression models and feature engineering. | `RandomForest`, `EDA`, `Feature Engineering` |
 
 ---
