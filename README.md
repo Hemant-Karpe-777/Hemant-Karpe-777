@@ -87,6 +87,9 @@
   <a href="https://www.kaggle.com/hemantk777" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
   </a>
+  <a href="https://www.instagram.com/hemant777__" target="_blank">
+    <img src="https://img.shields.io/badge/instagram-20BEFF?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 </p>
 
 ---
