@@ -103,7 +103,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=3ABEFF&center=true&vCenter=true&width=700&lines=Turning+Data+into+Decisions.;Building+Smart+AI+Pipelines.;Designing+Explainable+ML+Models.;Open+for+Collaboration+%F0%9F%9A%80" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=3ABEFF&center=true&vCenter=true&width=700&lines=Turning+Data+into+Decisions.;Building+Smart+AI+Pipelines.;Designing+Explainable+ML+Models.;Open+for+Collaboration+%F0%9F%9A%80" alt="Typing animation" />
 </p>
 
 
