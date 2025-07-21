@@ -41,6 +41,7 @@
 | [⛅ Weather Dashboard](https://github.com/Hemant-Karpe-777/Data-Analysis-Projects/tree/main/weather%20dashboard) | Built an interactive dashboard analyzing temperature, humidity, and forecasts. | `Power BI`, `Matplotlib`, `OpenWeather API` |
 | [🚢 Titanic Survival Analysis](https://github.com/Hemant-Karpe-777/Data-Analysis-Projects/tree/main/Titanic_dataset) | Performed EDA and visual analysis to uncover survival patterns. | `Pandas`, `Seaborn`, `Plotly` |
 
+- CHECK REPOSITORY FOR MORE PROJECTS
 
 ---
 
