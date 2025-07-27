@@ -11,6 +11,7 @@
 ## 📌 About Me
 
 🎓 I'm a passionate ML & Data Professional dedicated to solving real-world problems using data-driven thinking and smart systems.
+- 𝐈 𝐚𝐦 𝐚 𝐩𝐫𝐨𝐚𝐜𝐭𝐢𝐯𝐞 𝐚𝐧𝐝 𝐬𝐞𝐥𝐟-𝐝𝐢𝐫𝐞𝐜𝐭𝐞𝐝 𝐥𝐞𝐚𝐫𝐧𝐞𝐫, 𝐜𝐨𝐧𝐭𝐢𝐧𝐮𝐨𝐮𝐬𝐥𝐲 𝐬𝐞𝐞𝐤𝐢𝐧𝐠 𝐨𝐩𝐩𝐨𝐫𝐭𝐮𝐧𝐢𝐭𝐢𝐞𝐬 𝐭𝐨 𝐢𝐦𝐩𝐫𝐨𝐯𝐞 𝐦𝐲 𝐬𝐤𝐢𝐥𝐥𝐬.
 
 - 🧠 Skilled in **Data Analytics**, **Machine Learning**, **Prompt Engineering**, and **AI Systems**
 - 🔬 Love crafting end-to-end pipelines — from EDA to deployment
